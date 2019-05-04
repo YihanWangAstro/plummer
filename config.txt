@@ -1,0 +1,14 @@
+#configuration file, change the parameters here 
+
+M           = 1
+a           = 1
+r0          = 0.1
+phi0        = 0.7853981633974483
+theta0      = 0
+v_r0        = 0.986
+v_phi0      = 0
+v_theta0    = 0.5
+end_time    = 100
+time_step   = 0.005
+output_step = 0.01
+output_file = test.out
